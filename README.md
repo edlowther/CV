@@ -1,6 +1,6 @@
 ## Ed Lowther
 
-A senior data journalist who has been teaching himself coding but now hopes to make it official.
+A senior data journalist with the BBC who is learning to code at the Makers Academy.
 
 ## Skills
 
